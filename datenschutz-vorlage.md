@@ -80,7 +80,9 @@ Dieses Angebot kann auch ohne Cookies voll umfänglich genutzt werden. Funktione
 
 ### Kommentare [top](#top)
 
-Wenn du einen Kommentar im Blog hinterlässt, werden dein Name, deine Mailadresse und die URL deiner Webseite (sofern du dieses Feld ausfüllst) gespeichert. Die Mailadresse wird dabei nicht veröffentlicht. Ich nutze sie, falls ich eine Rückfrage o. Ä. zu deinem Kommentar habe.
+Wenn du einen Kommentar im Blog hinterlässt, werden dein Name und deine E-Mailadresse gespeichert. Die E-Mailadresse wird dabei nicht veröffentlicht. Ich nutze sie, falls ich eine Rückfrage o. Ä. zu deinem Kommentar habe. 
+
+Die kleinen Icons neben deinem Namen sind Identicons. Diese werden basierend auf deinen Angaben lokal generiert. Wenn du etwas mehr über [Identicons wissen möchtest, hilft dir die Wikipedia](https://en.wikipedia.org/wiki/Identicon).
 
 Deine IP-Adresse wird nicht gespeichert.
 
