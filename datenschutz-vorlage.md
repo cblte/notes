@@ -86,7 +86,7 @@ Die kleinen Icons neben deinem Namen sind Identicons. Diese werden basierend auf
 
 Deine IP-Adresse wird nicht gespeichert.
 
-Kommentare werden dauerhaft gespeichert, sofern du keine Löschung deiner Kommentare beantragst.
+Kommentare werden dauerhaft gespeichert, sofern du keine Löschung oder Anonymisierung deiner Kommentare beantragst.
 
 **Zusatz:**  
 Hier gibt es keine Demokratie und diese ist auch kein öffentliches Forum. Auch kein Marktplatz, keine öffentlichrechtliche Veranstaltung und auch kein öffentlicher Müllabladeplatz. Das hier ist mein Blog und hier trete ich auf die Bremse wenn ich meine, dass mir etwas nicht passt. Ich halte das hier so: **"Mein Blog, meine Meinung – Dein Blog, Deine Meinung”**. Wenn du also meinst, unbedingt deinen Kommentar abgeben zu müssen, dann darfst du auch gerne einen eigenen Blog veröffentlichen. Genügend Anbieter dafür gibt es ja.
