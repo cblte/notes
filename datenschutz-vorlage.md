@@ -143,7 +143,9 @@ Auf die Verwendung von Cookies, um Deinen erneuten Besuch dieses Angebots erkenn
 
 ### Inhalte Dritter [top](#top)
 
-Ich setze die nachfolgenden Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Grafiken, Avatare, Videos, Kartenmaterial oder Schriftarten, auf meinem Blog einzubinden. Die Drittanbieter dieser Inhalte nehmen dabei eure IP-Adresse wahr, ohne die sie die Inhalte nicht an euren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich.
+Falls Inhalte Dritte eingebunden werden, dann geschieht dieses mit Hilfe von [Embetty](https://github.com/heiseonline/embetty). Embetty agiert dabei als Vermittler zwischen dem Drittanbieterdienst und dieser Webseite. Erst wenn auf das jeweilge Bild angeklickt wird, wird die Verbindung zum Drittanbieter hergestellt. Die Drittanbieter dieser Inhalte nehmen dabei eure IP-Adresse wahr, ohne die sie die Inhalte nicht an euren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich.
+
+Von folgenden Drittanbietern könnten eingebunden werden: YouTube-Videos, Vimeo-Videos, Facebook-Videos und Twitter-Tweets.
 
 Ich bemühe mich diese Einbindung externer Inhalte so sparsam einzusetzen wie möglich und dann nur solche Inhalte zu verwenden, bei deren jeweiliger Anbieter Deine IP-Adresse lediglich zur Auslieferung der Inhalte verwendet wird. Ich habe jedoch keinen Einfluss darauf, wie Deine IP-Adresse bei diesen Anbietern, beispielsweise für statistische Zwecke, gespeichert wird.
 
@@ -151,7 +153,7 @@ Ich bemühe mich diese Einbindung externer Inhalte so sparsam einzusetzen wie m�
 
 ### Social Buttons [top](#top)
 
-Aktuell keine Social-Media-Sharing-Buttons eingebunden. Wenn Du einen Beitrag teilen möchtest, dann kopiere bitte die URL und füge sie dort ein, wo Du es teilen möchtest. Vielen, vielen Dank dafür!
+Aktuell sind keine Social-Media-Sharing-Buttons eingebunden. Wenn Du einen Beitrag teilen möchtest, dann kopiere bitte die URL und füge sie dort ein, wo Du es teilen möchtest. Vielen, vielen Dank dafür!
 
 <div id="partnerprogramme"></div>
 
@@ -200,4 +202,5 @@ Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage
 
 Ich behalte mir vor, diese Datenschutzerklärung unter Beachtung der geltenden Datenschutzvorschriften anzupassen.
 
-Aktueller Stand: 26. Januar 2020
+Aktueller Stand: 28. Januar 2020
+
