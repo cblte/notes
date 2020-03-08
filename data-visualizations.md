@@ -63,7 +63,7 @@ A small collection of data visualization websites. If you have more, please let 
 
 ### Population (projections)
 
-- https://2f5553c27b4a1eaa4c181720e143fb92b5c72544.googledrive.com/host/0B2GQktu-wcTiZlAyTTFEaFVuOUk/ – US Births &amp; Deaths
+- http://hisz.rsoe.hu/alertmap/index2.php - Emergency and Disaster Information Service
 - http://www.worldometers.info/watch/world-population/ – World Population
 
 
