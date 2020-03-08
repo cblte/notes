@@ -8,7 +8,7 @@ A small collection of data visualization websites. If you have more, please let 
 
 - https://www.windy.com/52.072/4.293?51.685,4.293,8,m:e5Wagik – WindyTY mit Suche
 - http://earth.nullschool.net/ – Die Erde
-- http://hint.fm/wind/ – Eine Windkarte
+- http://hint.fm/wind/ – USA Wind Map
 - http://www.livewxradar.com/ – Live WX Radar
 - http://www.nnvl.noaa.gov/weatherview/index.html – National Oceanic and Athmospheric Administration
 - http://www.lightningmaps.org/realtime?lang=en – Lightning map
@@ -47,7 +47,7 @@ A small collection of data visualization websites. If you have more, please let 
 
 ### Internet Attack Maps
 
-- http://www.digitalattackmap.com/#anim=1&amp;color=0&amp;country=ALL&amp;list=0&amp;time=16015&amp;view=map – Digital Attack Map
+- http://www.digitalattackmap.com/ – Digital Attack Map (High CPU)
 - http://map.norsecorp.com/ – Norse Attack Map
 - https://www.fireeye.com/cyber-map/threat-map.html – FireEye Cyber Threat Map
 - https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp – Akamai
