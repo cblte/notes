@@ -28,7 +28,7 @@ A small collection of data visualization websites. If you have more, please let 
 ### Flight tracker
 
 - http://www.flightradar24.com/37.07,-49.51/4 – Flight Radar 24
-- https://flightaware.com/miserymap/ – FlightAware Misery Map
+- https://de.flightaware.com/ – Live flight tracking and a lot more
 
 
 ### Satellite Tracking
