@@ -7,10 +7,11 @@ A small collection of data visualization websites. If you have more, please let 
 ### Wetter
 
 - https://www.windy.com/52.072/4.293?51.685,4.293,8,m:e5Wagik – WindyTY mit Suche
-- http://earth.nullschool.net/ – Die Erde
-- http://hint.fm/wind/ – USA Wind Map
-- http://www.livewxradar.com/ – Live WX Radar
+- http://earth.nullschool.net/ – Earth with wind, temp and more
 - http://www.nnvl.noaa.gov/weatherview/index.html – National Oceanic and Athmospheric Administration
+- https://www.wetteronline.de/wetterradar?wrx=51.03,10.5 - European Live Weather Map
+- https://www.meteopool.org/de/livemap#51.163375/10.447683/6/0 - European Live Weather Map
+- http://www.livewxradar.com/ – Live WX Radar
 - http://www.lightningmaps.org/realtime?lang=en – Lightning map
 - http://stuffin.space/ – Waste in Space
 
