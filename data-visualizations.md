@@ -23,7 +23,6 @@ A small collection of data visualization websites. If you have more, please let 
 - http://onemilliontweetmap.com/ – One Million Tweet Map
 - http://neoformix.com/spot/#/Twitter+Visualization – Neomix Twitter
 - http://hashtagify.me/ – Hashtagify
-- http://tweetping.net/ – Tweetping
 
 
 ### Flight tracker
