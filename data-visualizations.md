@@ -1,5 +1,5 @@
 A small collection of data visualization websites. If you have more, please let me know.
-
+ 
 ### Current Important Things
 
 - https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 – Corona Virus Update Dashboard
