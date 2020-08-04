@@ -1,0 +1,227 @@
+/* Written in 2020 by Carsten Brueggenolte
+
+ This theme is licensed under a Creative Commons Attribution 4.0 
+ International License.
+
+ You should have received a copy of the license along with this
+ work. If not, see http://creativecommons.org/licenses/by/4.0/
+*/
+@import url("/css/line-awesome.min.css");
+
+
+:root {
+    --background: #232931;
+    --yellow: #b58900;
+    --orange: #cb4b16;
+    --red: #dc322f;
+    --magenta: #d33682;
+    --violet: #6c71c4;
+    --blue: #268bd2;
+    --cyan: #2aa198;
+    --green: #859900;
+    --lightgreen: #4ecca3;
+    
+    --light-color: #F8F8F8;
+    --dark-background: #282828;
+    --dark-background-secondary:#414141;
+    
+    --dark-color-secondary: #73747b;
+    --dark-border-color: #4a4b50;
+    --phoneWidth:(max-width:684px);
+    --tabletWidth:(max-width:900px)
+}
+
+html {
+    overflow-y: scroll;
+    /* hack by https://css-tricks.com/eliminate-jumps-in-horizontal-centering-by-forcing-a-scroll-bar/ */
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Fira Mono", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", monospace;
+    background-color: var(--dark-background);
+    color: var(--light-color);
+}
+
+body#collection header {
+    text-align: left;
+    max-width: 40em;
+}
+
+h2, h3, h4, h5 {
+    color: var(--light-color) !important;
+}
+
+
+/* fancy blog title inclduing */
+/* keyframe things for a blinking thingy */
+#blog-title a:hover {
+    text-decoration: none !important;
+}
+#blog-title :after {
+    content: " ";
+    background: var(--lightgreen);
+    width: 0.6em;
+    height: 1em;
+    display: inline-block;
+    margin-left: 5px;
+    border-radius: 1px;
+    position: relative;
+    top: 4px;
+    -webkit-animation: cursor 1s infinite;
+    animation: cursor 1s infinite;
+    
+}
+
+
+/* keyframe things for a blinking thingy */
+
+@-webkit-keyframes cursor {
+    0% {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+@keyframes cursor {
+    0% {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+
+/* *********************************************** */
+
+header p.description {
+    color: var(--magenta);
+}
+
+a {
+    color: var(--blue) !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: var(--blue) !important;
+    text-decoration: underline !important;
+}
+
+#subscribe-btn {
+    border: 1px #DB0A5B;
+    background: #DB0A5B;
+    color: #F8F8FF;
+}
+
+a.hashtag {
+    color: var(--blue) !important;
+    text-decoration: underline !important;
+}
+
+.hashtag span:first-child {
+    color: var(--blue) !important;
+}
+
+
+/* All text is the same size. Otherwise text in the main page looks too tiny to me*/
+
+#collection article p,
+#post article p,
+#subpage article p {
+    font-size: 1.125rem;
+    
+}
+
+#collection article li,
+#post article li,
+#subpage article p {
+    font-size: 1.125rem;
+}
+
+#collection article ol,
+#post article ol,
+#subpage article p {
+    font-size: 1.125rem;
+    
+}
+
+.lab, .las {
+    font-size:24px;
+    vertical-align: baseline;
+}
+
+
+#collection img[src*="#art"] {
+    /*border-radius: 100px;*/
+    /*height: 192px;*/
+    /*width: 192px;*/
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    /*width: 150px;*/
+    width: 50%;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#post img[src*="#art"] {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#subpage img[src*="#art"] {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 50%;
+    height: auto;
+}
+
+.custom-nav {
+    text-align: center;
+}
+
+
+/* Publish Date */
+
+#post article time.dt-published,
+#subpage article time.dt-published {
+    font-style: italic;
+}
+
+body #post blockquote,
+body#collection blockquote,
+body#post blockquote,
+body#subpage blockquote {
+    border-left: 4px solid #db0a5b;
+    color: var(--light-color);
+    background-color: var(--dark-background-secondary);
+}
+
+
+/* Text before footer */
+
+body footer nav {
+    margin: 3em 0 1em 0;
+}
+
+footer nav::before {
+    content: "Copyright © 2020 by Carsten. Some rights reserved. \A This blog and relative works are licensed under a \A Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. \A";
+    white-space: pre-wrap;
+}
+footer nav::after {
+    content: "";
+    white-space: pre-wrap;
+}
